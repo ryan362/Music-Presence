@@ -1,0 +1,2 @@
+# Youtube Music Rich Presence
+I have no clue what I'm doing so if this is horribly wrong then I'll eventually figure it out and forgive me. This is my first time messing with HTML and Discord's rich presence system.
