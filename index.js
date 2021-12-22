@@ -1,5 +1,6 @@
+// Currently not working for me but that's not surprising
 const {Builder, By, Key, until} = require('selenium-webdriver');
-const client = require('discord-rich-presence')('249572165337219073');
+const client = require('discord-rich-presence')('249572165337219073'); // Discord ID
 
 let driver = new Builder().forBrowser('chrome').build();
 
